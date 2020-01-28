@@ -7,3 +7,6 @@ visualize data.
 ## Projects:
 [Exploring Ebay Car Sales Data](https://github.com/jenish-lamsal/python_for_data_science_practice/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)<br/>
 Pandas and numpy library were used to explore and clean the raw data.
+[Visualizing Earnings Based on College Majors](https://github.com/jenish-lamsal/dataquest/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)<br/>
+Matplotlib library was used to visualize Earnings Based on College Majors Pandas
+answer some key questions.
