@@ -11,5 +11,4 @@ Pandas and numpy library were used to explore and clean the raw data.</br>
 Matplotlib library was used to visualize Earnings Based on College Majors Pandas
 answer some key questions.</br>
 [Visualizing the Gender Gap in College Degrees](https://github.com/jenish-lamsal/dataquest/blob/master/Visualizing%20the%20Gender%20Gap%20in%20College%20Degrees.ipynb)<br/>
-Matplotlib library was used to visualize Earnings Based on College Majors Pandas
-answer some key questions.
+Matplotlib library was used to visualize the gender gap across college degrees.
