@@ -1,6 +1,6 @@
 # Data Science Projects in Python
 This repository consists of python scripts that I have written for practice
-while learning data science from [Dataquest.io](https://www.dataquest.io/path/data-scientist/).
+while learning python for data science from [Dataquest.io](https://www.dataquest.io/path/data-scientist/).
 I have used the pandas, numpy and the matplotlib library to analyze and
 visualize data.
 
