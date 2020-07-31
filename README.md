@@ -4,8 +4,7 @@ while learning python for data science from [Dataquest.io](https://www.dataquest
 
 ## Projects
 ### Python Projects:
-#### I have used the pandas, numpy, seaborn and matplotlib library to analyze and
-visualize data.
+#### I have used the pandas, numpy, seaborn and matplotlib library to analyze and visualize data.
 1. [Exploring Ebay Car Sales Data](https://github.com/jenish-lamsal/python_for_data_science_practice/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)<br/>
 Pandas and numpy library were used to explore and clean the raw data.</br>
 
