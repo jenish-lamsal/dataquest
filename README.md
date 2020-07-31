@@ -1,11 +1,11 @@
-# Data Science Projects in Python
-This repository consists of python scripts that I have written for practice
+# Data Science Projects
+This repository consists of python scripts and SQL queries that I have written for practice
 while learning python for data science from [Dataquest.io](https://www.dataquest.io/path/data-scientist/).
-I have used the pandas, numpy, seaborn and matplotlib library to analyze and
-visualize data.
 
 ## Projects
 ### Python Projects:
+#### I have used the pandas, numpy, seaborn and matplotlib library to analyze and
+visualize data.
 1. [Exploring Ebay Car Sales Data](https://github.com/jenish-lamsal/python_for_data_science_practice/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)<br/>
 Pandas and numpy library were used to explore and clean the raw data.</br>
 
