@@ -16,5 +16,5 @@ answer some key questions.</br>
 Matplotlib library was used to visualize the gender gap across college degrees.
 
 ### SQL Projects:
-1. [Analyzing CIA Factbook Data Using SQL](https://github.com/jenish-lamsal/dataquest/blob/master/Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)<br/>
+1. [Analyzing CIA Factbook Data Using SQL](https://github.com/jenish-lamsal/dataquest/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)<br/>
 SQLite database was used to analyze data from the CIA world Factbook
